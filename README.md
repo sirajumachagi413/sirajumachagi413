@@ -58,10 +58,8 @@ I’m actively seeking an **Associate Software Engineer (ASE)** role where I can
 
 ## 🤝 Let’s Connect
 - 📧 Email: sirajumachagi3@gmail.com  
-- 💼 LinkedIn: *(add your LinkedIn URL)*  
+- 💼 LinkedIn: - 💼 **LinkedIn:** [🔗](https://www.linkedin.com/in/siraj-umachagi/)
 - 🧑‍💻 GitHub: You’re already here 🙂
-
----
 
 ⭐ If you’re a recruiter or engineer looking for a **system-focused fresher** who enjoys working close to the hardware–software boundary, feel free to reach out!
 -->
